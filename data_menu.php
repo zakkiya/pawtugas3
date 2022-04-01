@@ -14,7 +14,7 @@
     
     <h1 style="text-align :center">Daftar Menu Makan , Makan , Dessert, dan Snack</h1>
     <h1 style="text-align :center">Restaurant Abella Rose</h1>
-    <td><button type="submit" class="btn btn-dark"><a href="form_menu.php"> Tambah Menu</button></a></td>
+    <td><button type="submit" class="btn btn-dark"><a href="form_menu.php"> <h5>Tambah Menu</h5></button></a></td>
     <br></br>
     <table <table class="table table-dark table-striped">
         <tr style="text-align :center">
