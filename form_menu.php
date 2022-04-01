@@ -8,6 +8,7 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
 </head>
 <body style="background-color:lightgrey:">
+<div class="w-50 mx-auto mt-5">
     <h1>Form Tambah Menu</h1>
     <h1></h1>
     <h1></h1>
@@ -15,11 +16,11 @@
     <h1></h1>
     
     <form action="action.php" method="post">
-        Menu Makan : <input type="text" name="menu_makan"> <br>
-        Menu Minuman : <input type="text" name="menu_minuman"> <br>
-        Menu Dessert: <input type="text" name="menu_dessert"> <br>
-        Menu Snack: <input type="text" name="menu_snack"> <br>
-  <button type="submit" class="btn btn-info">Submit</button>
+        <h3>Menu Makan : <input type="text" name="menu_makan"> </h3><br>
+        <h3>Menu Minuman : <input type="text" name="menu_minuman"> </h3><br>
+        <h3>Menu Dessert: <input type="text" name="menu_dessert"></h3> <br>
+        <h3>Menu Snack: <input type="text" name="menu_snack"></h3> <br>
+  <button type="submit" class="btn btn-info"><h2>Submit</h2></button>
   <!-- Optional JavaScript; choose one of the two! -->
 
     <!-- Option 1: Bootstrap Bundle with Popper -->
